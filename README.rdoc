@@ -1,9 +1,6 @@
 This project was done as our DBMS project in 5th semester, collectively by following members:
-<html>
-<a href="https://github.com/shivendra3">Shivendra Pratap</a>
-<a href="https://github.com/vikas179">Vikas Upadhyay</a>
-<a href="https://github.com/mraduldubey">Mradul Dubey</a>
-</html>
+Shivendra Pratap ("https://github.com/shivendra3"), Vikas Upadhyay("https://github.com/vikas179"), Mradul Dubey("https://github.com/mraduldubey"). 
+
 The project is Ruby On Rails based Movie review webapp. 
 
 Please feel free to use a different markup language if you do not plan to run
