@@ -1,28 +1,9 @@
-== README
+This project was done as our DBMS project in 5th semester, collectively by following members:
+<a href="https://github.com/shivendra3">Shivendra Pratap</a>
+<a href="https://github.com/vikas179">Vikas Upadhyay</a>
+<a href="https://github.com/mraduldubey">Mradul Dubey</a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+The project is Ruby On Rails based Movie review webapp. 
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
