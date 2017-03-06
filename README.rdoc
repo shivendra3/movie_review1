@@ -1,7 +1,4 @@
 This project was done as our DBMS project in 5th semester, collectively by following members:
 Shivendra Pratap ("https://github.com/shivendra3"), Vikas Upadhyay("https://github.com/vikas179"), Mradul Dubey("https://github.com/mraduldubey"). 
 
-The project is Ruby On Rails based Movie review webapp. 
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+The project is Ruby On Rails based Movie review webapp. It uses elasticsearch to implement the search functionality. 
